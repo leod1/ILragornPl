@@ -1,0 +1,6 @@
+name: ILragornPl
+version: ${project.version}
+main: ilragornpl.ilragornpl.ILragornPl
+api-version: 1.16
+authors: [ leod1 ]
+description: ILragorn plugin
